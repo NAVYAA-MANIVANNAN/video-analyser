@@ -58,7 +58,7 @@ Contains YOLO object detection implementation and related logic.
 ### 1. Clone the Repository
 
 ```bash id="9f6v8i"
-git clone https://github.com/your-username/video-analyser.git
+git clone https://github.com/NAVYAA-MANIVANNAN/video-analyser.git
 ```
 
 ### 2. Navigate to the Project Folder
