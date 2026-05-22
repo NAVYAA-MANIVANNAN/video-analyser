@@ -109,7 +109,7 @@ The project performs:
 
 **NAVYAA.M**
 
-GitHub: [https://github.com/your-username](https://github.com/NAVYAA-MANIVANNAN)
+GitHub: [https://github.com/NAVYAA-MANIVANNAN](https://github.com/NAVYAA-MANIVANNAN)
 
 ---
 
